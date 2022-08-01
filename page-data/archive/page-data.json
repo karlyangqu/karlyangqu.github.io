@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-archive-js",
     "path": "/archive/",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2020-09-16","title":"100DaysOfCode","tech":["Kotlin/Java","Spring Microservices","Javascript","CSS","Python"],"github":"https://github.com/chandrikadeb7/100DaysOfCode","external":"","company":""},"html":"<p>Repository dedicated to my #100DaysOfCode journey</p>"}},{"node":{"frontmatter":{"date":"2020-09-16","title":"100DaysOfCode","tech":["Kotlin/Java","Spring Microservices","Javascript","CSS","Python"],"github":"https://github.com/chandrikadeb7/100DaysOfCode","external":"","company":""},"html":"<p>Repository dedicated to my #100DaysOfCode journey</p>"}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"1","title":"Path to Financial Math","tech":["Stochastic Modeling","Numerical Method","Differential Equation","Monte Carlo","XVA VaR"],"github":"https://github.com/karlyangqu/100DaysofFinancialMath","external":"","company":""},"html":"<p>Repository dedicated to my #LearnFintech journey</p>"}}]}},"pageContext":{}},
     "staticQueryHashes": ["3115057458"]}

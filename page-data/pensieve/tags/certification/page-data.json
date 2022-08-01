@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/pensieve/tags/certification/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Certificates","description":"A little bit about my certifications","date":"2022-07-26","slug":"/pensieve/certificate","tags":["Certification"]}}}]}},"pageContext":{"tag":"Certification"}},
+    "staticQueryHashes": ["3115057458"]}

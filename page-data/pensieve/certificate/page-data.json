@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/pensieve/certificate",
+    "result": {"data":{"markdownRemark":{"html":"<h2>CFA</h2>\n<h2>FRM</h2>\n<h2>AWS Solution Architect</h2>\n<h2>AWS Data</h2>","frontmatter":{"title":"Certificates","description":"A little bit about my certifications","date":"2022-07-26","slug":"/pensieve/certificate","tags":["Certification"]}}},"pageContext":{}},
+    "staticQueryHashes": ["3115057458"]}
